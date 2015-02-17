@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+<key>1</key>
+    	<dict>
+			<key>Heading1</key>
+				<string>Tony Parker</string>
+			<key>Heading2</key>
+				<string>Guard</string>
+			<key>Heading3</key>
+				<string>San Antonio Spurs</string>
+			<key>Heading4</key>
+				<string>9</string>
+			<key>Heading5</key>
+				<string>185 lbs.</string>
+			<key>Heading6</key>
+				<string>6&#39;2&#39;&#39;</string>
+			<key>Heading7</key>
+				<string>2001</string>
+			<key>Heading8</key>
+				<string>13</string>
+			<key>Heading9</key>
+				<string>1st Round (28th pick) 2001 NBA Draft</string>
+			<key>Heading10</key>
+				<string>&quot;Paris</string>
+		</dict>
+		<key>2</key>
+    	<dict>
+			<key>Heading1</key>
+				<string>Chris Paul</string>
+			<key>Heading2</key>
+				<string>Guard</string>
+			<key>Heading3</key>
+				<string>Los Angeles Clippers</string>
+			<key>Heading4</key>
+				<string>3</string>
+			<key>Heading5</key>
+				<string>175 lbs.</string>
+			<key>Heading6</key>
+				<string>6&#39;0&#39;&#39;</string>
+			<key>Heading7</key>
+				<string>2005</string>
+			<key>Heading8</key>
+				<string>9</string>
+			<key>Heading9</key>
+				<string>1st Round (4th pick) 2005 NBA Draft</string>
+			<key>Heading10</key>
+				<string>Wake Forest University</string>
+		</dict>
+		<key>3</key>
+    	<dict>
+			<key>Heading1</key>
+				<string>Kobe Bryant</string>
+			<key>Heading2</key>
+				<string>Guard</string>
+			<key>Heading3</key>
+				<string>Los Angeles Lakers</string>
+			<key>Heading4</key>
+				<string>24</string>
+			<key>Heading5</key>
+				<string>212 lbs.</string>
+			<key>Heading6</key>
+				<string>6&#39;6&#39;&#39;</string>
+			<key>Heading7</key>
+				<string>1996</string>
+			<key>Heading8</key>
+				<string>18</string>
+			<key>Heading9</key>
+				<string>1st Round (13th pick) 1996 NBA Draft</string>
+			<key>Heading10</key>
+				<string>Lower Merion HS (PA)</string>
+		</dict>
+		<key>4</key>
+    	<dict>
+			<key>Heading1</key>
+				<string>LeBron James</string>
+			<key>Heading2</key>
+				<string>Forward</string>
+			<key>Heading3</key>
+				<string>Cleveland Cavaliers</string>
+			<key>Heading4</key>
+				<string>23</string>
+			<key>Heading5</key>
+				<string>250 lbs.</string>
+			<key>Heading6</key>
+				<string>6&#39;8&#39;&#39;</string>
+			<key>Heading7</key>
+				<string>2003</string>
+			<key>Heading8</key>
+				<string>11</string>
+			<key>Heading9</key>
+				<string>1st Round (1st pick) 2003 NBA Draft</string>
+			<key>Heading10</key>
+				<string>St. Vincent-St. Mary HS (OH)</string>
+		</dict>
+		<key>5</key>
+    	<dict>
+			<key>Heading1</key>
+				<string>Russell Westbrook</string>
+			<key>Heading2</key>
+				<string>Guard</string>
+			<key>Heading3</key>
+				<string>Oklahoma City Thunder</string>
+			<key>Heading4</key>
+				<string>0</string>
+			<key>Heading5</key>
+				<string>200 lbs.</string>
+			<key>Heading6</key>
+				<string>6&#39;3&#39;&#39;</string>
+			<key>Heading7</key>
+				<string>2008</string>
+			<key>Heading8</key>
+				<string>6</string>
+			<key>Heading9</key>
+				<string>1st Round (4th pick) 2008 NBA Draft</string>
+			<key>Heading10</key>
+				<string>&quot;University of California</string>
+		</dict>
+		<key>6</key>
+    	<dict>
+			<key>Heading1</key>
+				<string>Kevin Durant</string>
+			<key>Heading2</key>
+				<string>Forward</string>
+			<key>Heading3</key>
+				<string>Oklahoma City Thunder</string>
+			<key>Heading4</key>
+				<string>35</string>
+			<key>Heading5</key>
+				<string>240 lbs.</string>
+			<key>Heading6</key>
+				<string>6&#39;9&#39;&#39;</string>
+			<key>Heading7</key>
+				<string>2007</string>
+			<key>Heading8</key>
+				<string>7</string>
+			<key>Heading9</key>
+				<string>1st Round (2nd pick) 2007 NBA Draft</string>
+			<key>Heading10</key>
+				<string>University of Texas at Austin</string>
+		</dict>
+		<key>7</key>
+    	<dict>
+			<key>Heading1</key>
+				<string></string>
+			<key>Heading2</key>
+				<string></string>
+			<key>Heading3</key>
+				<string></string>
+			<key>Heading4</key>
+				<string></string>
+			<key>Heading5</key>
+				<string></string>
+			<key>Heading6</key>
+				<string></string>
+			<key>Heading7</key>
+				<string></string>
+			<key>Heading8</key>
+				<string></string>
+			<key>Heading9</key>
+				<string></string>
+			<key>Heading10</key>
+				<string></string>
+		</dict>
+		<key>8</key>
+    	<dict>
+			<key>Heading1</key>
+				<string></string>
+			<key>Heading2</key>
+				<string></string>
+			<key>Heading3</key>
+				<string></string>
+			<key>Heading4</key>
+				<string></string>
+			<key>Heading5</key>
+				<string></string>
+			<key>Heading6</key>
+				<string></string>
+			<key>Heading7</key>
+				<string></string>
+			<key>Heading8</key>
+				<string></string>
+			<key>Heading9</key>
+				<string></string>
+			<key>Heading10</key>
+				<string></string>
+		</dict>
+		<key>9</key>
+    	<dict>
+			<key>Heading1</key>
+				<string></string>
+			<key>Heading2</key>
+				<string></string>
+			<key>Heading3</key>
+				<string></string>
+			<key>Heading4</key>
+				<string></string>
+			<key>Heading5</key>
+				<string></string>
+			<key>Heading6</key>
+				<string></string>
+			<key>Heading7</key>
+				<string></string>
+			<key>Heading8</key>
+				<string></string>
+			<key>Heading9</key>
+				<string></string>
+			<key>Heading10</key>
+				<string></string>
+		</dict>
+		<key>10</key>
+    	<dict>
+			<key>Heading1</key>
+				<string></string>
+			<key>Heading2</key>
+				<string></string>
+			<key>Heading3</key>
+				<string></string>
+			<key>Heading4</key>
+				<string></string>
+			<key>Heading5</key>
+				<string></string>
+			<key>Heading6</key>
+				<string></string>
+			<key>Heading7</key>
+				<string></string>
+			<key>Heading8</key>
+				<string></string>
+			<key>Heading9</key>
+				<string></string>
+			<key>Heading10</key>
+				<string></string>
+		</dict>
+		<key>11</key>
+    	<dict>
+			<key>Heading1</key>
+				<string></string>
+			<key>Heading2</key>
+				<string></string>
+			<key>Heading3</key>
+				<string></string>
+			<key>Heading4</key>
+				<string></string>
+			<key>Heading5</key>
+				<string></string>
+			<key>Heading6</key>
+				<string></string>
+			<key>Heading7</key>
+				<string></string>
+			<key>Heading8</key>
+				<string></string>
+			<key>Heading9</key>
+				<string></string>
+			<key>Heading10</key>
+				<string></string>
+		</dict>
+		</dict>
+</plist>
