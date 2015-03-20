@@ -6,7 +6,6 @@
 
    # This is an example program intended to output a .plist file given a .csv file (Windows Comma Seperated)
 #***********************************************************************************************************************************
-use HTML::Entities;
 
 my $iFile = "nba_players.csv"; #enter the name of the file to be converted including its extension
 my $oFile = "nba_players.plist"; #choose and enter the name of the outfile including its extension
@@ -33,16 +32,16 @@ while(<INFO>){
 
 	($heading1, $heading2, $heading3, $heading4, $heading5, $heading6, $heading7, $heading8, $heading9, $heading10) = split(','); # add, remove, or change header namer if needed
 	
-	$heading1 = encode_entities($heading1);
-	$heading2 = encode_entities($heading2);
-	$heading3 = encode_entities($heading3);
-	$heading4 = encode_entities($heading4);
-	$heading5 = encode_entities($heading5);
-	$heading6 = encode_entities($heading6);
-	$heading7 = encode_entities($heading7);
-	$heading8 = encode_entities($heading8);
-	$heading9 = encode_entities($heading9);
-	$heading10 = encode_entities($heading10);
+	$heading1 = cleanCsvInput($heading1);
+	$heading2 = cleanCsvInput($heading2);
+	$heading3 = cleanCsvInput($heading3);
+	$heading4 = cleanCsvInput($heading4);
+	$heading5 = cleanCsvInput($heading5);
+	$heading6 = cleanCsvInput($heading6);
+	$heading7 = cleanCsvInput($heading7);
+	$heading8 = cleanCsvInput($heading8);
+	$heading9 = cleanCsvInput($heading9);
+	$heading10 = cleanCsvInput($heading10);
 
  	
     #wait till second iteration to write to file.	
@@ -84,4 +83,23 @@ print XML '</dict>
 </plist>';
 
 print "$iFile has been converted to a plist.\n";
+
+sub cleanCsvInput {
+
+	$str = $_[0];
+
+	#remove leading and trailing spaces
+	$str =~ s/^\s+//;
+	$str =~ s/\s+$//;
+
+	#remove XML entities (&, <, >)
+	$str =~ s/&/&amp;/g;
+	$str =~ s/</&lt;/g;
+	$str =~ s/</&gt;/g;
+
+	#encode the rest in utf8
+	$str = encode("utf8", $str);
+
+    return($str);
+}
 
